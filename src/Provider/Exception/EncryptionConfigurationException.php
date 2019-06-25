@@ -1,6 +1,6 @@
 <?php
 
-namespace Stevenmaguire\OAuth2\Client\Provider\Exception;
+namespace Aws\OAuth2\Client\Provider\Exception;
 
 use Exception;
 
