@@ -1,6 +1,6 @@
 <?php
 
-namespace Stevenmaguire\OAuth2\Client\Provider;
+namespace Aws\OAuth2\Client\Provider;
 
 use Exception;
 use Firebase\JWT\JWT;
